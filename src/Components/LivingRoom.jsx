@@ -1,10 +1,10 @@
 function LivingRoom(props) {
   return (
-    <>
+    <div>
   <h1> 
     Living Room 
   </h1>
-  </>
+  </div>
   )
   }
   
@@ -13,3 +13,5 @@ function LivingRoom(props) {
   
   
   export default LivingRoom
+
+  
